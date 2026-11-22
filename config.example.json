@@ -1,0 +1,17 @@
+{
+  "your_name": "Your Name",
+  "business_name": "Your Studio Name",
+  "reply_email": "you@yourdomain.com",
+  "phone": "",
+  "postal_address": "123 Your St, Your City, ST 00000",
+  "fix_price": 499,
+  "care_plan_price": 149,
+  "daily_send_cap": 40,
+  "seconds_between_sends": 45,
+  "smtp": {
+    "host": "smtp.yourprovider.com",
+    "port": 587,
+    "username": "you@yourdomain.com",
+    "password_env": "AUDITPILOT_SMTP_PASSWORD"
+  }
+}
