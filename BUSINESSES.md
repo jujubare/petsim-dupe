@@ -16,8 +16,9 @@ To start:
 
 See `README.md` for the full playbook.
 
-## 2. PermitPulse: fresh building-permit leads for contractors — IDEA, NOT BUILT
+## 2. PermitPulse: fresh building-permit leads for contractors — SAVED, TO DO
 
+**Status:** saved as a business to do; nothing built yet.
 **Model:** subscription product, no client work. Contractors pay monthly for a morning email of
 new permits in their area and trade.
 
@@ -44,3 +45,11 @@ some states restrict using permit records for solicitation, so each area needs a
 
 **Compared with AuditPilot:** slower to first dollar, but no fulfilment work and income is
 recurring from day one. The two share the same outreach engine.
+
+To start:
+- [ ] Pick the first metro area and confirm it publishes daily permit data
+- [ ] Check that state's rules on using permit records for solicitation
+- [ ] Build the permit fetcher, trade sorter and morning email
+- [ ] Set up Stripe subscriptions ($99 per trade, $249 all trades)
+- [ ] Email local contractors a free 2-week trial using that morning's real permits
+- [ ] Add a second metro once the first has 20 paying subscribers
