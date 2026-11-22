@@ -428,6 +428,83 @@ clipping, 18 value site (if you catch a rising game), 16 original game (biggest 
 
 ---
 
+# Clipping and creator tools
+
+## 22. ClipForge: all-in-one clipping software plus your own account network — IDEA, NOT BUILT
+
+**What it is:** one program that takes a long video or stream, finds the best moments, cuts
+them vertical with captions, and queues them to post across about 10 accounts on YouTube
+Shorts, TikTok and Instagram, each account with its own niche and its own clips.
+
+**Three ways it earns, weakest to strongest:**
+1. **Platform ad share.** The weakest. YouTube does not count views of non-original Shorts for
+   revenue sharing and can remove monetisation from a whole channel for reused or
+   template-looking content, even when the original creator gave permission.
+2. **Paid clipping campaigns.** Creators and brands pay clippers per view through clipping
+   marketplaces. Listed rates in late 2026 centre on about $1 per 1,000 views (range roughly
+   $0.20 to $6), usually with a cap per campaign and payment only for verified views.
+3. **Selling the software.** Other clippers pay monthly for the tool. This is the part that
+   can become a real business, and your own accounts are the proof it works.
+
+**The math for $500/day:**
+- On campaigns alone: about 500,000 paid views a day at $1 per 1,000, so 50,000 a day from
+  each of 10 accounts. Possible, but views come in spikes, not evenly, and caps bite.
+- On software: about 400 subscribers at $39/month.
+- Realistic mix: campaigns bring the first few hundred to few thousand dollars a month, and
+  the software grows on top.
+
+**What makes or breaks it:**
+- **Only clip with permission:** campaign content, creators who have agreed, or your own
+  footage. Clipping without it gets copyright strikes and accounts removed.
+- **Ten different accounts, not one account ten times.** The same clip posted across accounts
+  looks like spam and gets all of them limited. Each needs its own niche and clips.
+- **Add something.** A hook line, captions, a reaction or context. Bare cuts get less reach
+  and no ad share.
+- **Post through the official routes.** YouTube and Instagram allow scheduled uploads through
+  their developer programs; TikTok requires an app review first and until then uploads land as
+  private drafts you publish by hand. Fake devices and view bots end in bans.
+- **Pick the best clips yourself.** Software can find candidates; ten minutes a day of human
+  choosing is the difference between views and none.
+
+**Build:** moment finder (speech, loudness, chat spikes), vertical crop that follows the
+speaker, captions, a posting queue per account, and a campaign tracker. Two to four weeks for
+a solid first version. Running cost is mostly the computer time for video processing.
+
+**Odds (my judgment):** good for a few hundred to a couple of thousand dollars a month within
+the first months; $500 a day needs either a run of viral clips or the software side taking off.
+
+## 23. Stream packs: overlays, alerts and emotes — IDEA, NOT BUILT
+
+**What it is:** matching sets of stream graphics (overlays, alert animations, panels, emotes,
+transitions) sold as downloads to small streamers. Build a generator that recolours and
+renames a pack automatically, so each design becomes dozens of variants.
+**Pricing:** $10-40 per pack; $50-150 for a custom one.
+**Odds:** steady small sales; a store with 50+ packs can reach $1,000-3,000 a month.
+**Catch:** crowded market, so a distinct style or a single game's theme helps; use only your
+own art, never a game's official logos or characters.
+
+## 24. Game server hosting for friend groups — IDEA, NOT BUILT
+
+**What it is:** rent a large server, split it into many small private game servers (Minecraft
+and other games that allow private servers), and rent those out monthly with one-click setup.
+**Automated part:** free open-source control panels handle creation, billing, restarts and
+backups without you touching anything.
+**Pricing:** $5-15 per server a month. **Path to $15k/month:** about 1,500 servers; a
+realistic small host has 50-300.
+**Odds:** proven model with thin margins; customers stay for months once their world is there.
+**Catch:** when a server is down at 2am, customers message you; needs a little money up front.
+
+## 25. Thumbnail and title testing for small YouTubers — IDEA, NOT BUILT
+
+**What it is:** a creator uploads a video idea; they get back five thumbnail designs and ten
+titles, scored against what is currently working in their niche.
+**Automated part:** all of it, apart from spot checks.
+**Pricing:** $19/month. **Path to $15k/month:** about 800 subscribers.
+**Odds:** small YouTubers want this badly but cancel fast, so it lives on steady new signups.
+**Catch:** several tools exist; never use other people's faces or copy thumbnails.
+
+---
+
 ## Which to pick
 
 | Want | Pick |
