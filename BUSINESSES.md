@@ -53,3 +53,38 @@ To start:
 - [ ] Set up Stripe subscriptions ($99 per trade, $249 all trades)
 - [ ] Email local contractors a free 2-week trial using that morning's real permits
 - [ ] Add a second metro once the first has 20 paying subscribers
+
+## 3. ClaimScout: recovering unclaimed money owed to businesses — IDEA, NOT BUILT
+
+**Model:** contingency fee. You find money a business is owed, help them claim it, and keep a
+percentage. No fee unless they get paid.
+
+**Why it works:** US states hold tens of billions of dollars in unclaimed property: uncashed
+vendor cheques, customer refunds, insurance payouts, utility deposits, old bank accounts. A lot
+of it belongs to businesses that are still operating and have no idea, because the cheque went to
+an old address or a closed department. Every state publishes a searchable list, and several offer
+the whole list as a download. Nobody at a mid-sized company has the job of checking it.
+
+**How it runs:** a script loads the state lists, keeps only business names with large amounts
+(say $5,000 and up), matches them to companies that are still active, and finds a finance contact.
+You email: "Your company is listed as owed money by the state of X. I handle the paperwork for
+N%; you pay nothing unless you receive it." They sign a short agreement, you file the claim
+with their documents, the state pays them, they pay you.
+
+**Pricing:** typically 10% of what is recovered (many states cap finder fees around there).
+**Path to $30k/month:** about $300,000 recovered per month, for example 15 claims averaging
+$20,000. Large claims exist but how many you can win per month is untested.
+
+**Daily effort:** low for finding and emailing (automated); moderate per signed claim (forms,
+proof of ownership, follow-up with the state).
+
+**Risks, stated plainly:**
+- Owners can claim for free themselves, and you must say so. You are selling the finding and the
+  paperwork, not access.
+- Rules differ by state: fee caps, required contract wording, waiting periods before finders may
+  contact owners, and in some states a licence. Each state needs checking before any outreach.
+- Payout is slow: states often take 2-6 months to pay, so the first income arrives late.
+- Many states hide exact amounts on the public list, which makes picking the big claims harder.
+
+**Compared with the others:** biggest payout per deal and the easiest pitch (you are telling
+someone they are owed money), but the slowest cash and the most rules to follow.
