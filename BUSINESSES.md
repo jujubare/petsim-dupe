@@ -132,3 +132,42 @@ posted." Every AuditPilot client is also a ready buyer, so the two stack on one 
 
 **Compared with the others:** the smallest price but the least work per customer, and the only
 one that sells naturally to customers you already have.
+
+## 5. NightDesk: answering the calls local businesses miss — IDEA, NOT BUILT
+
+**Model:** monthly subscription. When a plumber, roofer, dentist or locksmith misses a call
+(on a job, after hours, at the weekend), the caller is answered anyway: first by an instant
+text, and on the higher plan by an AI voice assistant that takes the details and books the job.
+
+**Why it works:** for trades, a missed call is usually a lost job, because the caller rings the
+next name on the list instead of leaving a voicemail. One recovered job (a few hundred to a few
+thousand dollars) pays for the service many times over, which makes it an easy yes and a hard
+thing to cancel.
+
+**How it runs:** the business forwards unanswered calls to a number you provide. Plan one sends
+the caller a text within seconds ("Sorry we missed you, this is Mike's Plumbing. What do you
+need?") and passes the conversation to the owner. Plan two has a voice assistant answer, ask
+what the problem is, where and how urgent, then text the owner a summary or put it in their
+calendar. Both are assembled from existing phone and voice services, not built from nothing.
+
+**Pricing:** $149/month for text-back; $349/month for the voice assistant.
+**Path to $30k/month:** about 200 businesses on text-back, or 85 on the voice plan.
+
+**Daily effort:** close to zero once a client is set up (about an hour each). Selling is the work.
+
+**How to sell it:** with proof. Call the business after hours yourself; if nobody answers, the
+email writes itself: "I rang at 6:40pm on Tuesday and got voicemail. Here is what your caller
+would have received instead." Offer 14 days free and show them the jobs it caught.
+
+**Risks:**
+- The idea is known among marketing agencies, so it is not unique everywhere; it is still rare
+  among small trades, and the after-hours proof call is the edge.
+- Running costs: phone numbers, texts and voice minutes come out of the fee (roughly $10-60 per
+  client per month depending on call volume; an estimate).
+- Business texting in the US requires registering each sender with the phone carriers first,
+  which takes days to weeks and some paperwork.
+- A voice assistant that mishears an address or promises a price it should not is your problem;
+  it must stick to taking details and never quote or diagnose.
+
+**Compared with the others:** the highest monthly price per customer of the subscription ideas
+and the clearest payback for the buyer, but with real running costs and setup per client.
