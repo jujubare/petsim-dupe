@@ -270,7 +270,9 @@ product is a few days of work, so you can launch several and keep whichever sell
 are proven and the product needs no audience. It does not mean certain. Getting the first 20
 subscribers still takes outreach, though that can be a mostly automated free-trial email.
 
-## 11. DistressList: neglected-property leads for real estate investors — IDEA, NOT BUILT
+## 11. DistressList: neglected-property leads for real estate investors — SAVED, TO DO
+
+**Status:** saved as a business to do; nothing built yet.
 
 **What it is:** a weekly list of properties with fresh code violations (overgrown, boarded up,
 unsafe structure) or overdue property taxes, with address and owner name from public records.
@@ -281,6 +283,14 @@ on exactly these lists because such owners often want to sell.
 product instantly and one deal is worth tens of thousands to them.
 **Risks:** established list sellers exist (compete on freshness and one-county focus); data
 quality varies by city; a few places restrict commercial use of these records.
+
+To start:
+- [ ] Pick the first county: one that publishes code violations and tax-delinquent lists online
+- [ ] Check that state's rules on commercial use of those records
+- [ ] Build the shared engine: fetch, filter, weekly email, card billing
+- [ ] Build the buyer finder: local investors and "we buy houses" companies with public emails
+- [ ] Send a free 2-week trial using that week's real list as the sample
+- [ ] Add a second county once the first has 20 paying subscribers
 
 ## 12. FreshFilings: newly registered businesses, delivered weekly — IDEA, NOT BUILT
 
