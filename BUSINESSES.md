@@ -348,6 +348,86 @@ people before launching there, and sell only to businesses, not as a way to targ
 
 ---
 
+# Gaming and creator ideas
+
+More fun than the business-to-business ideas above, and startable with almost no money. The
+trade-off is honest: most people doing these earn pocket money, a few earn a lot, and $500 a
+day is the top end, not the typical result. If you are under 18, the payout accounts (Roblox
+Developer Exchange, Stripe, PayPal, ad networks) need a parent or guardian to set up with you.
+All of these stay inside the platforms' rules; exploits, dupes and botting get accounts banned
+and earnings taken back, so none of that is here.
+
+## 16. An original Roblox game — IDEA, NOT BUILT
+
+**What it is:** your own game with its own name, look and mechanics. Money comes from game
+passes, in-game purchases and premium playtime, and Roblox converts earned Robux to real money
+through its Developer Exchange once you pass its minimum.
+**Automated part:** the game earns while you sleep; I can write the scripts, shop, data saving
+and daily-reward systems with you.
+**Odds:** a small share of games earn real money, but a simple, polished game in a popular
+style (simulator, tycoon, obby, tower defence) with weekly updates has a real chance at
+hundreds to a few thousand dollars a month. Hits earn far more.
+**Catch:** needs updates every week or players leave; in-game purchases must follow Roblox's
+rules on paid random items.
+
+## 17. Tools and scripts for other Roblox developers — IDEA, NOT BUILT
+
+**What it is:** sell what developers need: ready-made systems (pets, inventory, trading, shops,
+admin panels), Studio plugins, UI kits, and paid commissions for custom scripting.
+**Why it is a better bet than a game:** developers pay up front, so you do not need a hit.
+**Pricing:** $5-50 per asset; $50-500 per commission.
+**Odds:** steady. A good scripter with a portfolio can reach $1,000-5,000 a month; $15k needs
+a store of popular products or a small team.
+**Catch:** commissions are real work, not automated; get paid part up front.
+
+## 18. A value and stats site for a trading game — IDEA, NOT BUILT
+
+**What it is:** a website with item values, a trade calculator ("is this trade fair?"), tier
+lists and update news for one popular game with trading. Players check these constantly.
+**Automated part:** values update from a simple admin page or community votes; pages build
+themselves. Money comes from ads, so no selling at all.
+**Odds:** the top sites for big games get millions of visits a month. Being early for a new,
+rising game matters more than being best for an old one.
+**Catch:** income follows the game's popularity; ad networks need an adult account holder; use
+your own design and wording and never copy another site's value list.
+
+## 19. Clipping for streamers and YouTubers — IDEA, NOT BUILT
+
+**What it is:** turn long streams and videos into short clips for TikTok, Shorts and Reels.
+Creators pay per clip or per view, and some run open clipping programs anyone can join.
+**Automated part:** software finds the loud, funny or high-chat moments, cuts them vertical and
+adds captions; you pick the best and post.
+**Pricing:** $5-20 per clip, or a monthly deal of $200-800 per creator.
+**Odds:** good for a few hundred to a couple of thousand a month quickly; 20-40 creators on
+monthly deals reaches the target but that is a small agency, not a solo hobby.
+**Catch:** only clip creators who have agreed to it; pay per view swings wildly.
+
+## 20. Discord server setups — IDEA, NOT BUILT
+
+**What it is:** build complete servers for creators, game communities and small brands:
+channels, roles, verification, welcome flow, ticket system, moderation and custom bot commands.
+**Automated part:** a template script builds a whole server in minutes, so each sale is mostly
+adjusting names and colours.
+**Pricing:** $50-300 per server; $20-50 a month to keep it maintained.
+**Odds:** easy first sales through communities you are already in; the monthly maintenance
+fees are what add up.
+**Catch:** one-off sales need a constant stream of new buyers.
+
+## 21. Small web games on game portals — IDEA, NOT BUILT
+
+**What it is:** simple, original browser games (the kind played in a spare five minutes)
+published on the big free-game portals, which share ad money with the developer.
+**Automated part:** once published, a game earns with no further work; I can build these
+with you quickly, so you can release several and see which catches on.
+**Odds:** most games earn little; one that gets featured can earn hundreds to thousands a
+month for a long time. Publishing many small games is the strategy.
+**Catch:** portals review games and reject clones, so each needs its own idea and art.
+
+**Ranked for a realistic start (my judgment):** 17 tools for developers (surest money), 19
+clipping, 18 value site (if you catch a rising game), 16 original game (biggest upside), 20, 21.
+
+---
+
 ## Which to pick
 
 | Want | Pick |
@@ -355,6 +435,6 @@ people before launching there, and sell only to businesses, not as a way to targ
 | Money soonest | 1 AuditPilot (already built), 5 NightDesk |
 | Least ongoing work | 2 PermitPulse, 11-14 (same engine), 7 StatementSwift |
 | Biggest single paydays | 3 ClaimScout |
-| Most fun to build | 6 RestockRadar, 10 BotPremium |
+| Most fun to build | 16 original Roblox game, 18 value site, 21 web games, 6 RestockRadar |
 | Cheapest to run | 2 and 11-15: about $20-50 a month |
 | Best odds of actually reaching $500/day | 1 AuditPilot, 11 DistressList, 2 PermitPulse, 5 NightDesk (my judgment) |
