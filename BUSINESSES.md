@@ -54,8 +54,9 @@ To start:
 - [ ] Email local contractors a free 2-week trial using that morning's real permits
 - [ ] Add a second metro once the first has 20 paying subscribers
 
-## 3. ClaimScout: recovering unclaimed money owed to businesses — IDEA, NOT BUILT
+## 3. ClaimScout: recovering unclaimed money owed to businesses — SAVED, TO DO
 
+**Status:** saved as a business to do; nothing built yet.
 **Model:** contingency fee. You find money a business is owed, help them claim it, and keep a
 percentage. No fee unless they get paid.
 
@@ -88,3 +89,46 @@ proof of ownership, follow-up with the state).
 
 **Compared with the others:** biggest payout per deal and the easiest pitch (you are telling
 someone they are owed money), but the slowest cash and the most rules to follow.
+
+To start:
+- [ ] Pick one state that publishes its full list with amounts and allows finders
+- [ ] Read that state's finder rules: fee cap, contract wording, waiting period, licence
+- [ ] Build the list loader, business matcher and contact finder
+- [ ] Have a lawyer review the one-page finder agreement once (a few hundred dollars)
+- [ ] Email the 50 largest matches; file the first signed claims
+- [ ] Add a second state once the first claim pays out
+
+## 4. ReplyDesk: Google review replies done for local businesses — IDEA, NOT BUILT
+
+**Model:** monthly subscription. Every review a business gets on Google receives a thoughtful
+reply within a day, written in the owner's voice. The owner does nothing.
+
+**Why it works:** most local businesses never reply to their reviews, good or bad. Replies make
+the listing look cared for, soften bad reviews for everyone who reads them later, and Google
+says responding helps local visibility. Owners know they should and never get round to it.
+
+**How it runs:** the owner grants manager access to their Google Business Profile once. A script
+checks for new reviews each day, an AI model drafts a reply using the business's details and tone,
+and it posts. Good reviews go out automatically; 1-2 star reviews are held for you (or the owner)
+to approve with one click, because a wrong reply to an angry customer does real damage.
+
+**Pricing:** $99/month per location; $149 with a weekly summary of what customers praise and
+complain about.
+**Path to $30k/month:** about 300 locations at $99, or 200 at $149. Multi-location owners
+(dental groups, franchises, restaurant groups) bring 5-20 locations in one sale.
+
+**Daily effort:** a few minutes approving the held replies. Selling is the work.
+
+**How to sell it:** the same outreach engine as AuditPilot, with a different hook: "You have 14
+reviews nobody answered, including this 2-star one from March. Here is the reply I would have
+posted." Every AuditPilot client is also a ready buyer, so the two stack on one customer.
+
+**Risks:**
+- Posting replies automatically needs Google's approval for access to its Business Profile
+  system; until that is granted, replies are drafted and you paste them in by hand.
+- Other companies sell this, mostly bundled into bigger, pricier marketing packages.
+- $99 is a small ticket, so it takes many customers; cancellations matter more than in the others.
+- Replies must be honest and must never invent facts about a customer's visit.
+
+**Compared with the others:** the smallest price but the least work per customer, and the only
+one that sells naturally to customers you already have.
