@@ -258,12 +258,93 @@ on that game staying popular and on its rules for third-party tools.
 
 ---
 
+# Best odds, cheap, automated: the "public records" family
+
+Each of these sells a daily or weekly email built from free government data to a kind of business
+that already buys leads. They cost about $20-50 a month to run (a small server and an email
+service), deliver themselves, and all five reuse the same engine as PermitPulse (#2): fetch a
+public feed, filter, email subscribers, bill by card. Build the engine once and each extra
+product is a few days of work, so you can launch several and keep whichever sells.
+
+"Best odds" means better than the other ideas on this list, in my judgment, because the buyers
+are proven and the product needs no audience. It does not mean certain. Getting the first 20
+subscribers still takes outreach, though that can be a mostly automated free-trial email.
+
+## 11. DistressList: neglected-property leads for real estate investors — IDEA, NOT BUILT
+
+**What it is:** a weekly list of properties with fresh code violations (overgrown, boarded up,
+unsafe structure) or overdue property taxes, with address and owner name from public records.
+**Who pays:** house flippers and "we buy houses" investors, who already spend hundreds a month
+on exactly these lists because such owners often want to sell.
+**Pricing:** $149/month per county. **Path to $15k/month:** about 100 subscribers.
+**Why the odds are good:** the most proven buyers on this whole list; they understand the
+product instantly and one deal is worth tens of thousands to them.
+**Risks:** established list sellers exist (compete on freshness and one-county focus); data
+quality varies by city; a few places restrict commercial use of these records.
+
+## 12. FreshFilings: newly registered businesses, delivered weekly — IDEA, NOT BUILT
+
+**What it is:** a list of every new company registered in a state or county that week, with
+name, address, type and owner where published.
+**Who pays:** accountants, insurance agents, payroll and card-processing reps, sign makers,
+commercial cleaners, web designers. A new business needs all of them within its first month.
+**Pricing:** $79/month per area. **Path to $15k/month:** about 190 subscribers.
+**Why the odds are good:** very wide range of buyers, so outreach rarely runs dry; also feeds
+AuditPilot for free (new businesses need websites).
+**Risks:** some states charge for bulk data or publish slowly; lists carry postal addresses
+more often than emails, so buyers must be happy to mail or visit.
+
+## 13. InspectAlert: failed health inspections for the companies that fix them — IDEA, NOT BUILT
+
+**What it is:** a daily alert of restaurants and food businesses that were just cited, sorted
+by problem: pests, grease and ventilation, refrigeration, plumbing, general cleanliness.
+**Who pays:** pest control, hood and duct cleaners, refrigeration repair, commercial cleaners.
+The restaurant has a deadline to fix it before re-inspection, so the timing is perfect.
+**Pricing:** $99/month per trade per county. **Path to $15k/month:** about 150 subscribers.
+**Why the odds are good:** almost nobody sells this, the buyer's need is urgent, and many
+cities publish inspections as open data.
+**Risks:** a smaller pool of buyers per city than the others, so it needs more cities; the
+pitch to restaurants must stay helpful, never shaming.
+
+## 14. BidBeacon: government contract alerts for small businesses — IDEA, NOT BUILT
+
+**What it is:** a daily email of new federal, state and city contracts matching a subscriber's
+trade and area: landscaping, janitorial, IT support, printing, construction, catering.
+**Who pays:** small firms that want government work but cannot watch dozens of procurement
+sites. The big alert services charge far more than a small firm will pay.
+**Pricing:** $59/month. **Path to $15k/month:** about 255 subscribers.
+**Why the odds are good:** federal opportunities come from one free official feed, so a
+national product works from day one with no city-by-city setup.
+**Risks:** the most competition in this family; state and city sites each need their own
+collector; subscribers who never win a bid cancel.
+
+## 15. PriceWatch: competitor price tracking for small online shops — IDEA, NOT BUILT
+
+**What it is:** a shop owner lists competitor product pages; they get an email whenever a
+competitor changes a price, runs a sale or goes out of stock. (Not public records, but the same
+engine and the same cheap, automatic delivery.)
+**Who pays:** small online stores, who currently check rivals by hand or not at all.
+**Pricing:** $39/month for 100 products. **Path to $15k/month:** about 385 subscribers.
+**Why the odds are good:** fully self-serve, so no selling conversations; existing tools are
+priced for big retailers.
+**Risks:** needs the most subscribers; finding shop owners costs effort or ad money; some
+sites block automated checking, so coverage is never perfect.
+
+**Ranked by odds of reaching $500/day (my judgment):** 11 DistressList, 2 PermitPulse,
+13 InspectAlert, 12 FreshFilings, 14 BidBeacon, 15 PriceWatch.
+
+**Shared caution for 2 and 11-14:** check each state's rules on using public records to contact
+people before launching there, and sell only to businesses, not as a way to target individuals.
+
+---
+
 ## Which to pick
 
 | Want | Pick |
 |---|---|
 | Money soonest | 1 AuditPilot (already built), 5 NightDesk |
-| Least ongoing work | 2 PermitPulse, 7 StatementSwift |
+| Least ongoing work | 2 PermitPulse, 11-14 (same engine), 7 StatementSwift |
 | Biggest single paydays | 3 ClaimScout |
 | Most fun to build | 6 RestockRadar, 10 BotPremium |
-| Best odds of actually reaching $500/day | 1, 5 and 7, in that order (my judgment) |
+| Cheapest to run | 2 and 11-15: about $20-50 a month |
+| Best odds of actually reaching $500/day | 1 AuditPilot, 11 DistressList, 2 PermitPulse, 5 NightDesk (my judgment) |
