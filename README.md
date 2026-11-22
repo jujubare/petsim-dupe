@@ -47,9 +47,9 @@ Other commands: `niches` (built-in list), `import leads.csv` (your own list), `e
 
 ## The money, honestly
 
-Nothing here guarantees $1,000 a day, and nobody selling a method that does is telling the truth.
-What this gives you is a path where the arithmetic works and the work is small. $1,000/day is
-about $30,000/month. Default pricing is a **$499 flat fix** plus a **$149/month care plan**.
+Nothing here guarantees $500 a day, and nobody selling a method that does is telling the truth.
+What this gives you is a path where the arithmetic works and the work is small. The target of
+$500/day is about $15,000/month, which the table below reaches around months 6-12. Default pricing is a **$499 flat fix** plus a **$149/month care plan**.
 
 | Stage | What it looks like | Monthly income |
 |---|---|---|

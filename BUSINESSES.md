@@ -1,11 +1,14 @@
 # Business list
 
+**Target: $500 a day, which is about $15,000 a month.** Every "path" line below is an estimate
+from stated assumptions, not a tested result.
+
 ## 1. AuditPilot: website fixes for local businesses — SAVED, TO DO
 
 **Status:** built and tested in this repo (`auditpilot/`), not yet run live.
 **Model:** service. $499 flat fix + $149/month care plan.
 **Daily effort:** run one command, press send, answer replies, do 1-3 hour fixes.
-**Path to $30k/month:** about 6-12 months if reply and close rates hold (unproven).
+**Path to $15k/month:** about 5-8 months if reply and close rates hold (unproven).
 
 To start:
 - [ ] Buy a domain and a mailbox on it (about $6/month)
@@ -34,7 +37,7 @@ trade and value, and emails each subscriber their slice with address, work descr
 owner or contractor name. Stripe handles billing. Once a city is wired up it runs untouched.
 
 **Pricing:** $99/month per trade per county; $249/month for all trades.
-**Path to $30k/month:** about 150-300 subscribers across several metro areas. One closed job pays
+**Path to $15k/month:** about 75-150 subscribers across two or three metro areas. One closed job pays
 a contractor's subscription for years, so cancellations should be low (assumption, untested).
 
 **Daily effort once live:** near zero for delivery. The work is getting subscribers: a free 2-week
@@ -73,7 +76,7 @@ N%; you pay nothing unless you receive it." They sign a short agreement, you fil
 with their documents, the state pays them, they pay you.
 
 **Pricing:** typically 10% of what is recovered (many states cap finder fees around there).
-**Path to $30k/month:** about $300,000 recovered per month, for example 15 claims averaging
+**Path to $15k/month:** about $150,000 recovered per month, for example 7-8 claims averaging
 $20,000. Large claims exist but how many you can win per month is untested.
 
 **Daily effort:** low for finding and emailing (automated); moderate per signed claim (forms,
@@ -114,7 +117,7 @@ to approve with one click, because a wrong reply to an angry customer does real 
 
 **Pricing:** $99/month per location; $149 with a weekly summary of what customers praise and
 complain about.
-**Path to $30k/month:** about 300 locations at $99, or 200 at $149. Multi-location owners
+**Path to $15k/month:** about 150 locations at $99, or 100 at $149. Multi-location owners
 (dental groups, franchises, restaurant groups) bring 5-20 locations in one sale.
 
 **Daily effort:** a few minutes approving the held replies. Selling is the work.
@@ -151,7 +154,7 @@ what the problem is, where and how urgent, then text the owner a summary or put 
 calendar. Both are assembled from existing phone and voice services, not built from nothing.
 
 **Pricing:** $149/month for text-back; $349/month for the voice assistant.
-**Path to $30k/month:** about 200 businesses on text-back, or 85 on the voice plan.
+**Path to $15k/month:** about 100 businesses on text-back, or 43 on the voice plan.
 
 **Daily effort:** close to zero once a client is set up (about an hour each). Selling is the work.
 
@@ -171,3 +174,96 @@ would have received instead." Offer 14 days free and show them the jobs it caugh
 
 **Compared with the others:** the highest monthly price per customer of the subscription ideas
 and the clearest payback for the buyer, but with real running costs and setup per client.
+
+---
+
+# Easy tech ideas (build once, mostly runs itself)
+
+These five need no client work and no phone calls. They are quicker to build than the ones above
+but depend more on finding an audience.
+
+## 6. RestockRadar: instant restock and price-drop alerts for collectors — IDEA, NOT BUILT
+
+**What it is:** a paid Discord or Telegram channel. A bot watches shops for things that sell out
+in minutes (trading cards, retiring LEGO sets, graphics cards, limited sneakers, consoles) and
+pings members the second something is back in stock or drops in price.
+**Why people pay:** being two minutes early is the whole game for collectors and resellers.
+**Pricing:** $15/month. **Path to $15k/month:** about 1,000 members.
+**Build:** a script that checks product pages every minute and posts to a channel. A weekend.
+**Effort after:** adding new products and shops; keeping the checkers working when shops change.
+**Risks:** many such groups exist for sneakers, so pick a category that is underserved; some shops
+forbid automated checking in their terms, so stick to those that allow it or offer feeds; members
+leave quickly if alerts are slow or wrong.
+
+## 7. StatementSwift: bank statement PDFs into spreadsheets — IDEA, NOT BUILT
+
+**What it is:** a website where a bookkeeper or accountant drops in a PDF bank statement and
+gets back a clean spreadsheet of every transaction, ready for their accounting software.
+**Why people pay:** bookkeepers type these in by hand for clients who only have PDFs. It is
+hours of dull work every month, and they bill by the hour.
+**Pricing:** $29/month for 50 statements; $79/month unlimited.
+**Path to $15k/month:** about 300 subscribers at an average of $50.
+**Build:** PDF text extraction plus an AI model for the awkward layouts, a checkout page, and a
+totals check so every converted statement balances. One to two weeks.
+**Effort after:** fixing bank layouts that fail; answering support email.
+**Risks:** a handful of small competitors already do this (which also proves people pay);
+statements are sensitive, so files must be deleted after conversion and that promise kept; scanned
+or photographed statements are much harder than digital ones.
+
+## 8. DropCatch: buying expired web addresses and reselling them — IDEA, NOT BUILT
+
+**What it is:** every day thousands of web addresses expire because the owner forgot to renew.
+A script scans the daily lists for ones that are short, are real words, or still have other
+sites linking to them, you register the best for about $10 each, and list them for sale.
+**Why people pay:** a good name saves a new business from a clumsy one; an address with history
+gets found on Google faster.
+**Pricing:** typical sales run $200 to $2,000; most names never sell.
+**Path to $15k/month:** hard to promise. Roughly 15-30 sales a month from a stock of several
+hundred names, which means several thousand dollars tied up and a year of patience.
+**Build:** a daily script that scores the expiring list. A few days.
+**Effort after:** ten minutes a day picking names; replying to offers.
+**Risks:** the only idea here that needs money up front and can lose it; never register names
+containing brands or trademarks (that gets them taken away and can bring a legal claim); the
+obvious good names are caught by professionals within seconds.
+
+## 9. NicheBoard: an automated job board for one narrow field — IDEA, NOT BUILT
+
+**What it is:** a job site for one specific kind of work (for example remote jobs in one
+programming language, climate tech, or veterinary nurses) that fills itself: a script collects
+openings from company career pages every day and a weekly email goes to subscribers.
+**Why people pay:** employers pay to have their listing pinned at the top and included in the
+email, because the audience is exactly the people they need.
+**Pricing:** $199 per featured listing; $300-500 per newsletter sponsor slot.
+**Path to $15k/month:** about 50 featured listings plus weekly sponsors, which needs roughly
+10,000-20,000 email subscribers. That takes 6-12 months to grow.
+**Build:** collectors for career pages, a simple site, an email list, a checkout. One to two weeks.
+**Effort after:** an hour a week; mostly growing the audience.
+**Risks:** no income until the audience exists; link out to the original posting and never copy
+listings from other job boards; popular fields already have boards, so narrow is better.
+
+## 10. BotPremium: a Discord bot with a paid tier — IDEA, NOT BUILT
+
+**What it is:** a bot that server owners add for free, with extra features behind a monthly fee.
+Best bets are bots tied to one game or hobby: stat tracking, tournament brackets, trading
+price checks, event reminders, giveaways.
+**Why people pay:** community owners pay small amounts readily for things that keep their
+server lively, and Discord has built-in subscriptions so no payment system is needed.
+**Pricing:** $5/month per server. **Path to $15k/month:** about 3,000 paying servers, which
+usually means the bot is in 100,000 or more. Realistic for a hit, rare for most.
+**Build:** a basic bot in a few days; the premium features over a few weeks.
+**Effort after:** hosting, keeping up with game and Discord changes, support in your own server.
+**Risks:** the longest odds on this list of reaching the target; a more likely outcome is a few
+hundred to a couple of thousand dollars a month; a bot built around someone else's game depends
+on that game staying popular and on its rules for third-party tools.
+
+---
+
+## Which to pick
+
+| Want | Pick |
+|---|---|
+| Money soonest | 1 AuditPilot (already built), 5 NightDesk |
+| Least ongoing work | 2 PermitPulse, 7 StatementSwift |
+| Biggest single paydays | 3 ClaimScout |
+| Most fun to build | 6 RestockRadar, 10 BotPremium |
+| Best odds of actually reaching $500/day | 1, 5 and 7, in that order (my judgment) |
